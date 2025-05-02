@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNp2l817Ndc=",
+  "success": true,
+  "projectFilePath": "/Users/priyankasrinivasan/Documents/Project/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/priyankasrinivasan/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/priyankasrinivasan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
